@@ -12,32 +12,54 @@
     <title>Frontend Mentor | QR code component</title>
     <style>
       body {
-        background-color: rgb(204, 221, 247);
+        background-color: rgba(213, 225, 239, 1);
       }
       .white-card {
-        width: 290px;
+        width: 280px;
         height: 450px;
         background-color: white;
-        /* learnt something 👇 how to center component */
         margin-top: 200px;
         margin-left: auto;
         margin-right: auto;
+        border-radius: 18px;
+        box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.2);
       }
 
       img {
         width: 250px;
         position: absolute;
-        margin-top: 20px;
-        margin-left: 20px;
+        margin: 15px;
+        border-radius: 9.5px;
       }
 
       .text {
         position: relative;
-        top: 300px;
-        margin: 20px;
+        top: 290px;
+        margin: 25px;
+        font-family: "Outfit", sans-serif;
         text-align: center;
       }
+
+      .first-paragraph {
+        font-weight: 700;
+        font-size: larger;
+        line-height: 1.2;
+      }
+
+      .second-paragraph {
+        font-size: smaller;
+        font-weight: 300;
+        color: grey;
+        margin: 8px;
+        line-height: 1.5;
+      }
     </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <div class="white-card">
@@ -47,7 +69,7 @@
           <p class="first-paragraph">
             Improve your front-end skills by building projects
           </p>
-          <p class="second-parapgraph">
+          <p class="second-paragraph">
             Scan the QR code to visit Frontend Mentor and take your coding
             skills to the next level
           </p>
