@@ -15,12 +15,27 @@
         background-color: rgb(204, 221, 247);
       }
       .white-card {
-        width: 350px;
+        width: 290px;
         height: 450px;
         background-color: white;
+        /* learnt something 👇 how to center component */
+        margin-top: 200px;
+        margin-left: auto;
+        margin-right: auto;
       }
+
       img {
         width: 250px;
+        position: absolute;
+        margin-top: 20px;
+        margin-left: 20px;
+      }
+
+      .text {
+        position: relative;
+        top: 300px;
+        margin: 20px;
+        text-align: center;
       }
     </style>
   </head>
@@ -28,11 +43,15 @@
     <div class="white-card">
       <img src="./images/image-qr-code.png" alt="" />
       <div class="blue-square-qr">
-        <p>Improve your front-end skills by building projects</p>
-        <p>
-          Scan the QR code to visit Frontend Mentor and take your coding skills
-          to the next level
-        </p>
+        <div class="text">
+          <p class="first-paragraph">
+            Improve your front-end skills by building projects
+          </p>
+          <p class="second-parapgraph">
+            Scan the QR code to visit Frontend Mentor and take your coding
+            skills to the next level
+          </p>
+        </div>
       </div>
     </div>
   </body>
