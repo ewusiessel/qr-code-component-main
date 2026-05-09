@@ -41,35 +41,30 @@ This is the first of many challenges in my coding journey. This particular chall
 
 I learned how elements are stacked in a block layout, how to use Absolute positioning to override the natural document flow, and how to use the Margin: auto property to center a component on a page. I also developed the problem-solving skill of breaking down a challenge into smaller, manageable steps. 
 
-To see how you can add code snippets, see below:
-
-<img width="1816" height="892" alt="image" src="https://github.com/user-attachments/assets/908d76d4-2e51-4e03-96b2-42f33e2c029d" />
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
+.white-card {
+        width: 280px;
+        height: 450px;
+        background-color: white;
+        margin-top: 200px;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 18px;
+        box-shadow: 5px 5px 10px 0px rgba(151, 151, 151, 0.2);
+      }
 ```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
+```css
+   img {
+        width: 250px;
+        position: absolute;
+        margin: 15px;
+        border-radius: 9.5px;
+      }
 ```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I will continue exploring the different display properties and their characteristics, while also diving deeper into Flexbox and applying it in my next project
 
 ### Useful resources
 
