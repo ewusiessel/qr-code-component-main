@@ -1,7 +1,11 @@
 ## Building QR code component
 
+<<<<<<< HEAD
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+=======
+This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+>>>>>>> 81c5f0ee481048d09a03e95c1d3b1854f9e3b262
 ## Table of contents
 
 - [Overview](#overview)
@@ -16,9 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+This is the first of many challenges to help in my codig journey, this challenge covers the basics of using HTML and css. The task involves creating a qr card set on a page and with some information. 
 
 ### Screenshot
 
