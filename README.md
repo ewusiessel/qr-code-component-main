@@ -39,9 +39,11 @@ This is the first of many challenges in my coding journey. This particular chall
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learned how elements are stacked in a block layout, how to use Absolute positioning to override the natural document flow, and how to use the Margin: auto property to center a component on a page. I also developed the problem-solving skill of breaking down a challenge into smaller, manageable steps. 
 
 To see how you can add code snippets, see below:
+
+<img width="1816" height="892" alt="image" src="https://github.com/user-attachments/assets/908d76d4-2e51-4e03-96b2-42f33e2c029d" />
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
