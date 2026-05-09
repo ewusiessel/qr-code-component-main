@@ -35,7 +35,6 @@ More importantly, it helped me build the habit of approaching development tasks 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Basic CSS positioning and layout techniques
 
 ### What I learned
