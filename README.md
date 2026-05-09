@@ -1,12 +1,12 @@
 ## Building QR code component
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 ## Table of contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -17,7 +17,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-This is the first of many challenges to help in my codig journey, this challenge covers the basics of using HTML and css. The task involves creating a qr card set on a page and with some information. 
+
+This is the first of many challenges in my coding journey. This particular challenge covers the basics of HTML and CSS, with the task of creating a QR card displayed on a page alongside relevant information. Completing challenges like this is a great way to sharpen your coding skills by building realistic, hands-on projects.
+
 
 ### Screenshot
 
@@ -34,14 +36,7 @@ This is the first of many challenges to help in my codig journey, this challenge
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
