@@ -17,6 +17,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ## Overview
 
 This project is one of the first steps in my front-end development journey. The goal was to recreate a QR code card from a provided design using HTML and CSS.
+
 While the challenge is simple, it gave me practical experience turning a static design into a functional webpage. It strengthened my understanding of core front-end fundamentals such as semantic HTML, CSS layout, spacing, positioning, and attention to visual detail. 
 
 More importantly, it helped me build the habit of approaching development tasks by breaking a design into smaller, manageable parts and solving each part methodically.
