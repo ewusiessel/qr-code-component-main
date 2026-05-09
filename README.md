@@ -71,7 +71,7 @@ As I continue building projects, I want to deepen my understanding of Flexbox, r
 ### Useful resources
 
 - (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/line-height) - This helped me discover the line-height property for fine-tuning the spacing between text
-- (https://www.joshwcomeau.com/css/center-a-div/) - This is an amazing article which helped me  understand the concept of centering with margin auto property and centering text.
+- (https://www.joshwcomeau.com/css/center-a-div/) - This is an amazing article which helped me  understand the concept of centering with margin auto property.
 
 ## Author
 
