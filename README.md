@@ -20,7 +20,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This is the first of many challenges in my coding journey. This particular challenge covers the basics of HTML and CSS, with the task of creating a QR card displayed on a page alongside relevant information. Completing challenges like will be a great way to sharpen my coding skills by building realistic, hands-on projects.
 
-
 ### Screenshot
 
 ![](./qr-component.jpg)
@@ -35,7 +34,6 @@ This is the first of many challenges in my coding journey. This particular chall
 
 - Semantic HTML5 markup
 - CSS custom properties
-
 
 ### What I learned
 
@@ -68,31 +66,9 @@ I will continue exploring the different display properties and their characteris
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-### AI Collaboration
-
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
-
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
-- What worked well? What didn't?
-
-**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
+- (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/line-height) - This helped me discover the line-height property for fine-tuning the spacing between text
+- (https://www.joshwcomeau.com/css/center-a-div/) - This is an amazing article which helped me  understand the concept of centering with margin auto property and centering text.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Frontend Mentor - [@ewusiessel](https://www.frontendmentor.io/profile/ewusiessel)
