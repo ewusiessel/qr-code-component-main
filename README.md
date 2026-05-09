@@ -1,6 +1,6 @@
 ## Building QR code component
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 ## Table of contents
 
@@ -16,7 +16,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This is the first of many challenges in my coding journey. This particular challenge covers the basics of HTML and CSS, with the task of creating a QR card displayed on a page alongside relevant information. Completing challenges like will be a great way to sharpen my coding skills by building realistic, hands-on projects.
+This project is one of the first steps in my front-end development journey. The goal was to recreate a QR code card from a provided design using HTML and CSS.
+While the challenge is simple, it gave me practical experience turning a static design into a functional webpage. It strengthened my understanding of core front-end fundamentals such as semantic HTML, CSS layout, spacing, positioning, and attention to visual detail. 
+
+More importantly, it helped me build the habit of approaching development tasks by breaking a design into smaller, manageable parts and solving each part methodically.
 
 ### Screenshot
 
@@ -32,10 +35,13 @@ This is the first of many challenges in my coding journey. This particular chall
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Basic CSS positioning and layout techniques
 
 ### What I learned
 
-I learned how elements are stacked in a block layout, how to use Absolute positioning to override the natural document flow, and how to use the Margin: auto property to center a component on a page. I also developed the problem-solving skill of breaking down a challenge into smaller, manageable steps. 
+During this project, I gained a clearer understanding of how block-level elements stack naturally on a page and how absolute positioning can override the normal flow when more precise placement is required.
+
+I also improved my problem-solving process by learning to break a challenge into smaller steps rather than trying to solve everything at once.
 
 ```css
 .white-card {
@@ -60,7 +66,7 @@ I learned how elements are stacked in a block layout, how to use Absolute positi
 
 ### Continued development
 
-I will continue exploring the different display properties and their characteristics, while also diving deeper into Flexbox and applying it in my next project
+As I continue building projects, I want to deepen my understanding of Flexbox, responsive design, and modern layout techniques so I can build interfaces that are more adaptable, scalable, and closer to production-ready standards.
 
 ### Useful resources
 
