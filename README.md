@@ -41,7 +41,7 @@ More importantly, it helped me build the habit of approaching development tasks 
 
 During this project, I gained a clearer understanding of how block-level elements stack naturally on a page and how absolute positioning can override the normal flow when more precise placement is required.
 
-I also improved my problem-solving process by learning to break a challenge into smaller steps rather than trying to solve everything at once.
+I also improved my problem-solving process by learning to break a challenge into smaller steps.
 
 ```css
 .white-card {
