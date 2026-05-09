@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This is the first of many challenges in my coding journey. This particular challenge covers the basics of HTML and CSS, with the task of creating a QR card displayed on a page alongside relevant information. Completing challenges like this is a great way to sharpen your coding skills by building realistic, hands-on projects.
+This is the first of many challenges in my coding journey. This particular challenge covers the basics of HTML and CSS, with the task of creating a QR card displayed on a page alongside relevant information. Completing challenges like will be a great way to sharpen my coding skills by building realistic, hands-on projects.
 
 
 ### Screenshot
